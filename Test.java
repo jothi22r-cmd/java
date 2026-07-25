@@ -1,4 +1,4 @@
-public class Test {
+ public class Test {
 
     // Addition
     static void add(int a, int b) {
@@ -37,6 +37,7 @@ public class Test {
         sub(x, y);
         mul(x, y);
         div(x, y);
+        dev
 
     }
 
